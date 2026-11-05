@@ -3,7 +3,7 @@
 
 A collection of FPGA-oriented digital design projects developed using Verilog, VHDL, and Xilinx Vivado.
 
-This portfolio focuses on digital logic design, RTL development, simulation, and hardware-oriented arithmetic.
+This projects focuses on digital logic design, RTL development, simulation, and hardware-oriented arithmetic.
 
 ## Projects
 
@@ -22,16 +22,13 @@ This portfolio focuses on digital logic design, RTL development, simulation, and
 - Xilinx Vivado
 - FPGA-oriented RTL design
 - Digital logic simulation
-- Python (K2RED reference model)
 
 ## Verification
 
 Projects include computer-based simulation and, where available, FPGA constraint files and hardware testing.
 
-Verification status is documented separately for each project.
 
 ## About
 
-This repository documents my academic and personal digital hardware design projects as an Electrical and Electronics Engineering student.
+This repository documents my academic and personal digital hardware design projects.
 
-My main interests include FPGA design, digital signal processing, embedded systems, and communication technologies.
